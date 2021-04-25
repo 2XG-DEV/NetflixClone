@@ -1,3 +1,5 @@
+# Intro
+
 This is a netflix clone I have created using The Movie Database API.
 
 The user can log in using their own email and password , preview the movies , go to their profile page and log out.

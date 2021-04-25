@@ -1,3 +1,22 @@
+This is a netflix clone I have created using The Movie Database API.
+
+The user can log in using their own email and password , preview the movies , go to their profile page and log out.
+ 
+Available for preview at : https://netflix-clone-bba78.web.app
+
+Technology stack used:
+
+React for interface
+
+React-router-dom for managing multiple pages and history(starting page , log in page , main page , profile page)
+
+Redux for managing state(user information)
+
+Axios for managing fetch calls on the tmdb API
+
+Firebase for managing users
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
